@@ -6,24 +6,22 @@
 
 <div align="center">
   <h3>🌙 Dark Mode | ☀️ Light Mode</h3>
-  <p>Choose your preferred theme!</p>
+  <p>Click the toggle below to switch between themes!</p>
   
   <details>
-    <summary>🎨 Theme Options</summary>
+    <summary>🎨 Theme Toggle</summary>
     
-    ### 🌙 Dark Mode (Current)
+    ### 🌙 Dark Mode (Default)
     - Modern dark theme with Tokyo Night colors
     - Easy on the eyes for night coding
     - Professional and sleek appearance
-    - **Current theme** ✅
     
     ### ☀️ Light Mode
     - Clean and bright theme
     - Perfect for daytime viewing
     - High contrast for better readability
-    - [View Light Mode Version](README_Light.md) 🔗
     
-    <p><em>💡 Tip: GitHub README doesn't support live theme switching, but you can view the light mode version by clicking the link above!</em></p>
+    <p><em>Note: GitHub README doesn't support live theme switching, but you can view different theme versions below!</em></p>
   </details>
 </div>
 
