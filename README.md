@@ -145,44 +145,6 @@
 - **Rate**: $12 USD/hour
 - **Availability**: Ready for new projects!
 
-## 🎨 Art Portfolio Showcase
-
-<div align="center">
-  <h3>🌟 My Creative Work</h3>
-  <p>Check out my latest 3D models, designs, and creative projects!</p>
-</div>
-
-### 🏈 3D Football Kit Design
-<div align="center">
-  <img src="https://via.placeholder.com/400x300/2E8B57/FFFFFF?text=3D+Football+Kit+Design" alt="3D Football Kit Design" width="400" height="300" />
-  <p><em>Professional 3D football kit modeling and rendering</em></p>
-</div>
-
-### 🦅 3D Winged "Farton" Object
-<div align="center">
-  <img src="https://via.placeholder.com/400x300/FF6B6B/FFFFFF?text=3D+Winged+Farton+Object" alt="3D Winged Farton Object" width="400" height="300" />
-  <p><em>Creative 3D character design and modeling</em></p>
-</div>
-
-### 🏗️ Unity Game Environment
-<div align="center">
-  <img src="https://via.placeholder.com/400x300/4A90E2/FFFFFF?text=Unity+Game+Environment" alt="Unity Game Environment" width="400" height="300" />
-  <p><em>Immersive 3D game environments and level design</em></p>
-</div>
-
-### 🎭 3D Blender Creations
-<div align="center">
-  <img src="https://via.placeholder.com/400x300/9B59B6/FFFFFF?text=3D+Blender+Art" alt="3D Blender Creations" width="400" height="300" />
-  <p><em>Character designs and photorealistic landscapes</em></p>
-</div>
-
-<div align="center">
-  <h4>📸 Want to see more of my work?</h4>
-  <a href="https://www.freelancer.com/u/mohamadnorfadzly" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Full%20Portfolio-Freelancer.com-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" alt="View Full Portfolio" />
-  </a>
-</div>
-
 ## 📊 GitHub Stats
 
 <div align="center">
