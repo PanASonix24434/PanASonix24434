@@ -4,27 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Java+%26+PHP+Enthusiast;Security+%26+Encryption+Expert;Always+Learning+New+Tech" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <h3>🌙 Dark Mode | ☀️ Light Mode</h3>
-  <p>Click the toggle below to switch between themes!</p>
-  
-  <details>
-    <summary>🎨 Theme Toggle</summary>
-    
-    ### 🌙 Dark Mode (Default)
-    - Modern dark theme with Tokyo Night colors
-    - Easy on the eyes for night coding
-    - Professional and sleek appearance
-    
-    ### ☀️ Light Mode
-    - Clean and bright theme
-    - Perfect for daytime viewing
-    - High contrast for better readability
-    
-    <p><em>Note: GitHub README doesn't support live theme switching, but you can view different theme versions below!</em></p>
-  </details>
-</div>
-
 ## 🏠 About Me
 - 🏠 **Location**: Working from home
 - 💻 **Current Focus**: Full-stack development with Java, PHP, and web technologies
