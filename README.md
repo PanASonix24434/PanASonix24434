@@ -10,17 +10,6 @@
   <img src="https://img.shields.io/badge/OS-Windows%20%7C%20Linux-lightblue?style=for-the-badge&logo=windows&logoColor=white" alt="OS" />
 </div>
 
-```javascript
-const developer = {
-  name: "PanASonix",
-  role: "Full Stack Developer",
-  languages: ["Java", "PHP", "TypeScript", "JavaScript"],
-  frameworks: ["Bootstrap", "SCSS", "JSP"],
-  tools: ["Eclipse", "Blender", "Unity", "Photoshop"],
-  status: "Always coding...",
-  passion: "Creating amazing digital experiences"
-};
-```
 
 ## 🏠 About Me
 
@@ -117,6 +106,44 @@ const developer = {
 - Detailed 3D structures and environments
 - Focus on realistic textures and lighting
 - Portfolio showcase of modeling expertise
+
+## 💼 Freelancer Portfolio
+
+<div align="center">
+  <h3>🌟 Check out my work on Freelancer.com</h3>
+  <a href="https://www.freelancer.com/u/mohamadnorfadzly" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Portfolio-Freelancer.com-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelancer Portfolio" />
+  </a>
+</div>
+
+### 🏆 Client Reviews & Ratings
+- **Overall Rating**: 5.0/5.0 ⭐
+- **Completion Rate**: 100% ✅
+- **On Time Delivery**: 100% ⏰
+- **On Budget**: 100% 💰
+
+### 🎯 Featured Projects on Freelancer
+
+#### 🏈 3D Football Kit Design
+- **Client**: Filip S. (Croatia)
+- **Project**: 3D images of football kits
+- **Tools**: 3D Modeling, 3D Rendering, After Effects, Photo Editing, Photoshop
+- **Review**: "Great work in very short time"
+- **Earnings**: €20 EUR
+
+#### 🦅 3D Winged "Farton" Object
+- **Client**: Manuel L. (Spain)
+- **Project**: 3D Model of Winged "Farton" Object
+- **Tools**: 3D Design, 3D Modeling, 3D Rendering
+- **Review**: "he do a good job"
+- **Earnings**: €15 EUR
+
+### 🛠️ Services Offered
+- **Web Development**: Full-stack solutions with modern technologies
+- **3D Modeling**: Character design, architectural modeling, game environments
+- **Graphic Design**: Professional image editing and design solutions
+- **Rate**: $12 USD/hour
+- **Availability**: Ready for new projects!
 
 ## 📊 GitHub Stats
 
