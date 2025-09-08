@@ -1,74 +1,233 @@
 # Hi there, I'm PanASonix! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Java+%26+PHP+Enthusiast;Security+%26+Encryption+Expert;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Java+%26+PHP+Enthusiast;Security+%26+Encryption+Expert;Always+Learning+New+Tech;Building+Amazing+Web+Apps;Creating+3D+Magic" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Coding%20%F0%9F%92%BB-brightgreen?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/IDE-VS%20Code%20%7C%20Eclipse-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="IDE" />
+  <img src="https://img.shields.io/badge/OS-Windows%20%7C%20Linux-lightblue?style=for-the-badge&logo=windows&logoColor=white" alt="OS" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/PanASonix24434/PanASonix24434/blob/main/assets/coding.gif" alt="Coding" width="400" height="300" />
+</div>
+
+```javascript
+const developer = {
+  name: "PanASonix",
+  role: "Full Stack Developer",
+  languages: ["Java", "PHP", "TypeScript", "JavaScript"],
+  frameworks: ["Bootstrap", "SCSS", "JSP"],
+  tools: ["Eclipse", "Blender", "Unity", "Photoshop"],
+  status: "Always coding...",
+  passion: "Creating amazing digital experiences"
+};
+```
+
 ## 🏠 About Me
-- 🏠 **Location**: Working from home
-- 💻 **Current Focus**: Full-stack development with Java, PHP, and web technologies
-- 🔒 **Interests**: Data encryption, security, and halal food technology
-- 🎓 **Education**: Information Security and Assurance (2021-2024)
-- 🌱 **Learning**: Always exploring new technologies and frameworks
-- 💼 **Freelance**: Web development and 3D modeling services
-- ⭐ **Rating**: 5.0/5.0 on Freelancer.com with 100% completion rate
+
+```bash
+$ whoami
+PanASonix - Full Stack Developer & 3D Artist
+
+$ pwd
+/home/developer/working-from-home
+
+$ cat interests.txt
+- Data encryption & security
+- Halal food technology
+- 3D modeling & design
+- Web development
+- Always learning new tech
+
+$ cat education.txt
+Information Security and Assurance (2021-2024)
+Currently: Semester 5
+
+$ cat freelance.txt
+Rating: 5.0/5.0 ⭐
+Completion Rate: 100% ✅
+Rate: $12 USD/hour 💰
+```
+
+<div align="center">
+  <img src="https://img.shields.io/badge/💻-Currently%20Coding-brightgreen?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/🏠-Working%20From%20Home-blue?style=for-the-badge" alt="Location" />
+  <img src="https://img.shields.io/badge/⭐-5.0%2F5.0%20Rating-gold?style=for-the-badge" alt="Rating" />
+</div>
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<div align="center">
+  <h3>💻 Programming Languages</h3>
+</div>
 
-### Frameworks & Technologies
-![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-FF6B6B?style=for-the-badge&logo=java&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CF649A?style=for-the-badge&logo=sass&logoColor=white)
+```python
+languages = {
+    "Backend": ["Java", "PHP"],
+    "Frontend": ["TypeScript", "JavaScript", "HTML5", "CSS3"],
+    "Styling": ["SCSS", "Bootstrap"],
+    "Database": ["MySQL"],
+    "Web": ["JSP", "Apache Tomcat"]
+}
+```
 
-### 3D & Design Tools
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</div>
+
+<div align="center">
+  <h3>🔧 Frameworks & Technologies</h3>
+</div>
+
+```yaml
+frameworks:
+  web_server: "Apache Tomcat"
+  database: "MySQL"
+  java_web: "JSP"
+  ide: "Eclipse"
+  css_framework: "Bootstrap"
+  css_preprocessor: "SCSS"
+```
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black" alt="Apache Tomcat" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/JSP-FF6B6B?style=for-the-badge&logo=java&logoColor=white" alt="JSP" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/SCSS-CF649A?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS" />
+</div>
+
+<div align="center">
+  <h3>🎨 3D & Design Tools</h3>
+</div>
+
+```json
+{
+  "3d_modeling": {
+    "blender": "Character & Environment Design",
+    "unity": "Game Development & 3D Environments"
+  },
+  "graphic_design": {
+    "photoshop": "Professional Image Editing",
+    "canva": "Quick Design Solutions"
+  }
+}
+```
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+</div>
 
 ## 🚀 Featured Projects
 
+<div align="center">
+  <h3>💻 My Coding Projects</h3>
+</div>
+
 ### 🔍 Halal-Food-Checker
-**Java | JSP | MySQL | Apache Tomcat | Bootstrap | Google Maps API**
-- A comprehensive web application for checking halal food ingredients
-- Built with Eclipse IDE and deployed on Apache Tomcat 9
-- Features ingredient verification and halal certification checking
-- Includes Google Maps integration for halal shop locations
-- Responsive design with Bootstrap 5.3.2
-- Group project for Semester 5 studies
+```java
+// Project: Halal Food Verification System
+// Tech Stack: Java, JSP, MySQL, Apache Tomcat, Bootstrap, Google Maps API
+// Status: ✅ Completed (Semester 5 Group Project)
+
+public class HalalFoodChecker {
+    private String[] features = {
+        "Ingredient verification",
+        "Halal certification checking", 
+        "Google Maps integration",
+        "Responsive Bootstrap design"
+    };
+    
+    public void checkHalalStatus() {
+        // Comprehensive halal food verification
+        // Built with Eclipse IDE
+        // Deployed on Apache Tomcat 9
+    }
+}
+```
+
+**Key Features:**
+- 🍽️ **Ingredient Verification**: Check if food ingredients are halal
+- 🗺️ **Google Maps Integration**: Find nearby halal shops and restaurants
+- 📱 **Responsive Design**: Works perfectly on all devices
+- 🎨 **Bootstrap 5.3.2**: Modern, clean UI design
 
 ### 🔐 Image-Encryption
-**PHP | Security | Data Protection**
-- Advanced image encryption system for secure data transmission
-- Implements robust encryption algorithms for image protection
-- Focus on data security and privacy
+```php
+<?php
+// Project: Advanced Image Encryption System
+// Language: PHP
+// Focus: Security & Data Protection
+
+class ImageEncryption {
+    public function encryptImage($imagePath) {
+        // Advanced encryption algorithms
+        // Secure data transmission
+        // Image protection mechanisms
+        return "Encrypted image data";
+    }
+}
+?>
+```
 
 ### 🔒 Bycryt-Encryption
-**Java | Cryptography | Security**
-- Java-based encryption utility for secure data handling
-- Implements various encryption techniques and algorithms
-- Designed for secure communication and data protection
+```java
+// Project: Java Encryption Utility
+// Language: Java
+// Focus: Cryptography & Security
+
+public class BycrytEncryption {
+    public String encryptData(String data) {
+        // Various encryption techniques
+        // Secure communication protocols
+        // Data protection algorithms
+        return "Encrypted data";
+    }
+}
+```
 
 ### 📚 Studytify
-**Educational Platform**
-- Learning management and study assistance application
-- Designed to enhance educational experiences
+```javascript
+// Project: Educational Platform
+// Focus: Learning Management & Study Assistance
+
+const Studytify = {
+    features: [
+        "Study assistance",
+        "Learning management", 
+        "Educational enhancement"
+    ],
+    
+    enhanceLearning() {
+        // Designed to improve educational experiences
+        return "Better learning outcomes";
+    }
+};
+```
 
 ### 👤 Profile
-**HTML | Web Development**
-- Personal portfolio and profile showcase
-- Clean, responsive web design
+```html
+<!-- Project: Personal Portfolio -->
+<!-- Language: HTML/CSS -->
+<!-- Focus: Web Development & Design -->
+
+<div class="profile-showcase">
+    <h1>Clean, Responsive Design</h1>
+    <p>Personal portfolio and profile showcase</p>
+</div>
+```
 
 ## 🎨 3D & Design Portfolio
 
@@ -123,22 +282,49 @@
 
 ## 🎯 Current Focus
 
-- 🔍 **Halal Food Technology**: Developing innovative solutions for food verification
-- 🔐 **Security & Encryption**: Building robust security applications
-- 🌐 **Web Development**: Creating responsive and user-friendly web applications
-- 🎨 **3D Modeling & Design**: Creating immersive 3D environments and characters
-- 💼 **Freelance Services**: Offering web development and 3D modeling solutions
-- 📚 **Continuous Learning**: Exploring new technologies and best practices
+```bash
+$ cat current_focus.txt
+🔍 Halal Food Technology    - Developing innovative verification solutions
+🔐 Security & Encryption    - Building robust security applications  
+🌐 Web Development         - Creating responsive user-friendly apps
+🎨 3D Modeling & Design    - Creating immersive 3D environments
+💼 Freelance Services      - Offering web dev and 3D modeling solutions
+📚 Continuous Learning     - Exploring new technologies and practices
+
+$ echo "Status: Always coding and creating amazing things! 🚀"
+Status: Always coding and creating amazing things! 🚀
+```
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🔍-Halal%20Food%20Tech-green?style=for-the-badge" alt="Halal Tech" />
+  <img src="https://img.shields.io/badge/🔐-Security%20%26%20Encryption-red?style=for-the-badge" alt="Security" />
+  <img src="https://img.shields.io/badge/🌐-Web%20Development-blue?style=for-the-badge" alt="Web Dev" />
+  <img src="https://img.shields.io/badge/🎨-3D%20Modeling%20%26%20Design-purple?style=for-the-badge" alt="3D Design" />
+</div>
 
 ## 💡 Fun Facts
 
-- 🏠 I work from home and love the flexibility it provides
-- 🔒 I'm passionate about data security and encryption
-- 🍽️ I'm interested in halal food technology and verification systems
-- 🎓 Graduated in Information Security and Assurance (2021-2024)
-- 🎨 I'm self-taught in 3D Blender and love creating digital art
-- 💼 I offer freelance services with a 5.0/5.0 rating and 100% completion rate
-- 🚀 Always excited to learn new technologies and frameworks
+```javascript
+const funFacts = {
+  workStyle: "🏠 Work from home - love the flexibility!",
+  passion: "🔒 Data security & encryption enthusiast",
+  interests: "🍽️ Halal food technology & verification systems",
+  education: "🎓 Information Security and Assurance (2021-2024)",
+  creativity: "🎨 Self-taught 3D Blender artist",
+  freelance: "💼 5.0/5.0 rating with 100% completion rate",
+  mindset: "🚀 Always excited to learn new technologies"
+};
+
+console.log("About PanASonix:");
+Object.values(funFacts).forEach(fact => console.log(fact));
+```
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🏠-Work%20From%20Home-green?style=for-the-badge" alt="WFH" />
+  <img src="https://img.shields.io/badge/🔒-Security%20Enthusiast-red?style=for-the-badge" alt="Security" />
+  <img src="https://img.shields.io/badge/🎨-3D%20Artist-purple?style=for-the-badge" alt="3D Artist" />
+  <img src="https://img.shields.io/badge/⭐-5.0%2F5.0%20Rating-gold?style=for-the-badge" alt="Rating" />
+</div>
 
 ## 📫 Connect with Me
 
@@ -155,11 +341,31 @@
 </div>
 
 ### 💼 Freelance Services
-- **Web Development**: Full-stack solutions with Java, PHP, TypeScript, HTML, CSS, SCSS, JavaScript
-- **3D Modeling**: Blender and Unity environments, characters, and architectural designs
-- **Graphic Design**: Photoshop and Canva creations
-- **Rate**: $12 USD/hour
-- **Rating**: 5.0/5.0 with 100% completion rate
+```yaml
+services:
+  web_development:
+    description: "Full-stack solutions"
+    technologies: ["Java", "PHP", "TypeScript", "HTML", "CSS", "SCSS", "JavaScript"]
+  
+  3d_modeling:
+    description: "Blender and Unity environments"
+    specializations: ["Characters", "Architectural designs", "Game environments"]
+  
+  graphic_design:
+    tools: ["Photoshop", "Canva"]
+    focus: "Professional and quick design solutions"
+
+pricing:
+  rate: "$12 USD/hour"
+  rating: "5.0/5.0"
+  completion_rate: "100%"
+```
+
+<div align="center">
+  <img src="https://img.shields.io/badge/💰-Rate:%20$12%20USD%2Fhour-green?style=for-the-badge" alt="Rate" />
+  <img src="https://img.shields.io/badge/⭐-5.0%2F5.0%20Rating-gold?style=for-the-badge" alt="Rating" />
+  <img src="https://img.shields.io/badge/✅-100%%20Completion%20Rate-brightgreen?style=for-the-badge" alt="Completion" />
+</div>
 
 ---
 
@@ -168,5 +374,18 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Feel+free+to+explore+my+repositories;Let's+connect+and+collaborate!" alt="Thank You" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Feel+free+to+explore+my+repositories;Let's+connect+and+collaborate!;Happy+coding!+🚀" alt="Thank You" />
+</div>
+
+```bash
+# Thanks for checking out my profile!
+echo "Let's build something amazing together! 💻✨"
+echo "Feel free to reach out for collaboration opportunities!"
+echo "Happy coding! 🚀"
+```
+
+<div align="center">
+  <img src="https://img.shields.io/badge/💻-Happy%20Coding!-brightgreen?style=for-the-badge" alt="Happy Coding" />
+  <img src="https://img.shields.io/badge/🚀-Let's%20Build%20Together!-blue?style=for-the-badge" alt="Let's Build" />
+  <img src="https://img.shields.io/badge/✨-Thanks%20for%20Visiting!-purple?style=for-the-badge" alt="Thanks" />
 </div>
